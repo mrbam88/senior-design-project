@@ -1,0 +1,27 @@
+Temple University Senior Design Team EE9, 2010
+Recovered from public Internet Archive Wayback Machine captures.
+
+Project: Agent Based Epidemiology Model using INGENIAS Agent Framework
+Authors: William R. Moser and Bilal A. Malik
+Advisers: Dr. Li Bai and Dr. Saroj Biswas
+Report date: April 23, 2010
+Website capture: October 10, 2020
+
+Archive homepage:
+https://web.archive.org/web/20201010181229/https://sites.google.com/a/temple.edu/sd-ee9-2010/
+Documents:
+https://web.archive.org/web/20201010181242/https://sites.google.com/a/temple.edu/sd-ee9-2010/documents
+Team photo:
+https://web.archive.org/web/20201010181300/https://sites.google.com/a/temple.edu/sd-ee9-2010/home/group-members/billandbilal
+
+Contents:
+reports/: Original PDF and Word report.
+software/: Original software ZIP, preserved without execution.
+original_images/: Original archived attachment bytes, including BMP screenshots,
+team photo cover, full report cover, and poster.
+preview_images/: Archived JPEG renditions of selected BMP images for convenient viewing.
+archived_pages/: Captured source pages and activity feeds, not a rebuilt offline website.
+
+No slideshow was found in the site's archived URL index, attachment host index,
+upload history, Documents page, or software ZIP. This does not establish that
+no slideshow existed or that a copy cannot survive elsewhere.
